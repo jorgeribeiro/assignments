@@ -1,0 +1,16 @@
+University of California, Los Angeles
+
+Dr. John Smith
+Biology Professor, UCLA
+1000 UCLA Dr.
+Anytown, CA 91325
+Work: 310-555-0422
+E-mail: john@ucla.com
+
+Lily Kim
+Dean of Biology Students, UCLA
+5987 UCLA Dr.
+Anytown, CA 91325
+Work: 213-555-7876
+Cell: 310-555-7789
+E-mail: lily@ucla.com

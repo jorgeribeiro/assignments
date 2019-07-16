@@ -1,0 +1,24 @@
+=== Resume ===
+
+=== Heading ===
+Jorge Luis Melo Ribeiro
+262 309 8725
+jriberio@pio.carrollu.edu
+135 S East Ave, North Bergstrom Hall, Room 109
+Waukesha, WI, USA
+53186
+_________________________________________________________________
+=== Objective ===
+I want to succeed in a stimulating and challenging environment, building the success of the company while I experience advancement opportunities.
+_________________________________________________________________
+=== Education ===
+•	Graduating in Computer Science (GPA: 8.2/10.0)
+Federal University of Maranhão, São Luís, MA – Brazil (End: 2018)
+•	Exchange student in Computer Science (GPA: 4.0/4.0)
+Carroll University, Waukesha, WI – USA (End: 2016)
+_________________________________________________________________
+=== Skills ===
+•	Experience in various programming languages including Java, C, and Lua.
+•	Experienced using OpenCV library.
+•	Three apps created to Android OS.
+•	Experience with Android Studio.

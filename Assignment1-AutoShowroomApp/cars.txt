@@ -1,0 +1,12 @@
+Toyota-Camry
+Comfortable and spacious interior; good visibility; distinct luxury and sport trim levels; excellent V6 engine.
+Ford-Fusion
+Fuel-efficient turbocharged engines; sharp handling; composed ride; quiet cabin; available all-wheel drive.
+Chevy-Colorado
+Fuel-efficient turbocharged engines; sharp handling; composed ride; advanced technology and safety features.
+Honda-Civic
+Zesty and fuel-efficient turbocharged engine; advanced infotainment and safety technology; satisfying handling.
+Chevy-Malibu
+Spacious interior with tall-person-friendly front seats; refined ride quality; strong 2.0-liter turbocharged engine.
+Toyota-Corolla
+Copious rear legroom; impressive fuel economy; user-friendly controls; generous standard equipment.

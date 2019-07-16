@@ -1,0 +1,4 @@
+•	Experience in various programming languages including Java, C, and Lua.
+•	Experienced using OpenCV library.
+•	Three apps created to Android OS.
+•	Experience with Android Studio.
